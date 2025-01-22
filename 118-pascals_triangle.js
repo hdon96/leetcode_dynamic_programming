@@ -3,7 +3,7 @@
  * @return {number[][]}
  */
 var generate = function (numRows) {
-  p = [[1]];
+  let p = [[1]];
   //p1[[1,1]]
   //p2[[1,2,1]]
   //p3[[1,3,3,1]]
