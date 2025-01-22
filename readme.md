@@ -1,6 +1,6 @@
 # LeetCode Dynamic Programming Solutions
 
-This repository contains my solutions to problems from the [LeetCode dynamic programming problems list][https://leetcode.com/problem-list/dynamic-programming/] implemented in JavaScript.
+This repository contains my solutions to problems from the [LeetCode dynamic programming problems list](https://leetcode.com/problem-list/dynamic-programming/) implemented in JavaScript.
 
 ## Problems Solved
 
