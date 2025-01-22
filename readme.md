@@ -6,7 +6,7 @@ This repository contains my solutions to problems from the [LeetCode dynamic pro
 
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/?envType=problem-list-v2&envId=dynamic-programming&) - [solution](70-climbing_stairs.js)
 - [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/?envType=problem-list-v2&envId=dynamic-programming&) - [solution](118-pascals_triangle.js)
-- [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/?envType=problem-list-v2&envId=dynamic-programming&)) - [solution](119-pascals_triangle_II.js)
+- [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/?envType=problem-list-v2&envId=dynamic-programming&) - [solution](119-pascals_triangle_II.js)
 
 ## Author
 
